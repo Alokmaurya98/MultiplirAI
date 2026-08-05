@@ -1,5 +1,7 @@
 # 🔗 LinkLens — URL Preview Application
 
+Live Link : https://multiplir-ai.vercel.app
+
 A full-stack application that lets users save URLs and automatically generates rich previews with metadata (title, description, image) using Open Graph scraping.
 
 ## 📸 Features
